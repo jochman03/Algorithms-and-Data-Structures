@@ -31,3 +31,7 @@ NumPy was used for verification and comparison of results.
 ### Lab 5 – Tree Structures
 - **Binary search tree** with standard operations
 - **AVL tree** with automatic rebalancing after insert/delete
+
+### Lab 6 – B-Tree and Heap Structures
+- **B-tree** with dynamic insertions and node splitting
+- **Binary heap (max-heap)** with insertion and heapify operations
